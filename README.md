@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-ink.png">
-  <img src="assets/hero-cream.png" alt="A boathouse rack of finished racing shells, drawn as a pen-plotter blueprint." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abishaigeorge09/abishaigeorge09/master/assets/hero-ink.png">
+  <img src="https://raw.githubusercontent.com/abishaigeorge09/abishaigeorge09/master/assets/hero-cream.png" alt="A boathouse rack of finished racing shells, drawn as a pen-plotter blueprint." width="100%">
 </picture>
 
 # Abishai Gosula
